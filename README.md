@@ -14,7 +14,7 @@ Ce créateur vous permet de génerer un fichier .lua compatibles avec le bot Sno
 - Retour en banque
 - Grille et affichage des coordonées
 - Exporter le trajet en .lua
-- 3 niveau de zoom
+- 3 niveaux de zoom
 
 ### 🏁 Comment l'installer ?
 **[Télécharger la dernière version](https://github.com/F4kir/winter-releases/releases/latest/download/Winter.exe)**

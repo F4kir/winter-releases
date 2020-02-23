@@ -34,4 +34,4 @@ Si vous souhaitez le désinstaller, il vous suffit de glisser Winter.exe dans la
 ![3x](https://github.com/F4kir/winter-releases/raw/master/zoom%20max.png)
 
 #### Interface de configuration de la banque
-![modal](https://github.com/F4kir/winter-releases/raw/master/bank-modal.png)
+<img src="https://github.com/F4kir/winter-releases/raw/master/bank-modal.png" data-canonical-src="https://github.com/F4kir/winter-releases/raw/master/bank-modal.png" width="400" />

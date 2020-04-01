@@ -18,7 +18,7 @@ Ce créateur vous permet de génerer un fichier .lua compatibles avec le bot Sno
 - 3 niveaux de zoom
 
 ### 🏁 Comment l'installer ?
-**[Télécharger la dernière version Windows](https://github.com/F4kir/winter-releases/releases/latest/download/Winter.exe)**
+**[Télécharger la dernière version Windows](https://github.com/F4kir/winter-releases/releases/latest/download/Winter.exe)**   
 **[Télécharger la dernière version MacOS](https://github.com/F4kir/winter-releases/releases/latest/download/iWinter.app.zip)**
 
 

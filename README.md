@@ -1,5 +1,6 @@
 # ❄ Winter
 ## Créateur de trajet pour SnowbotTouch
+## Compatible avec Windows et MacOS
 
 ### 🏳 Introduction
 
